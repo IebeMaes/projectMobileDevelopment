@@ -1,0 +1,75 @@
+{
+    "blokken": [
+        {
+            "id": 1,
+            "title": "A blok",
+            "description": "Dit is de A blok",
+            "latitude": 51.31916098644441, 
+            "longitude": 4.856159563523916
+        },
+        {
+            "id": 2,
+            "title": "B blok",
+            "description": "Dit is de B blok",
+            "latitude": 51.320468707200824, 
+            "longitude": 4.859183401031331 
+        },
+        {
+            "id": 3,
+            "title": "D blok",
+            "description": "Dit is de D blok",
+            "latitude": 51.320524523720565,  
+            "longitude": 4.862666555628477
+        },
+        {
+            "id": 4,
+            "title": "E blok",
+            "description": "Dit is de E blok",
+            "latitude": 51.31965537305738, 
+            "longitude": 4.866494198157331
+        },
+        {
+            "id": 5,
+            "title": "F blok",
+            "description": "Dit is de F blok",
+            "latitude": 51.31845926723316, 
+            "longitude": 4.867693526165752 
+        },
+        {
+            "id": 6,
+            "title": "G blok",
+            "description": "Dit is de G blok",
+            "latitude": 51.31740666831493, 
+            "longitude": 4.864095542214003
+        },
+        {
+            "id": 7,
+            "title": "L blok",
+            "description": "Dit is de L blok",
+            "latitude": 51.317988790394296, 
+            "longitude": 4.860318934926779 
+        },
+        {
+            "id": 8,
+            "title": "O blok",
+            "description": "Dit is de O blok",
+            "latitude": 51.31772564023144, 
+            "longitude": 4.856746468644595 
+        },
+        {
+            "id": 9,
+            "title": "P blok",
+            "description": "Dit is de P blok",
+            "latitude": 51.31929654459588,
+            "longitude":  4.859591682862924
+        },
+        {
+            "id": 10,
+            "title": "S blok",
+            "description": "Dit is de S blok",
+            "latitude": 51.324686650003, 
+            "longitude": 4.866557992217233
+        }
+        
+    ]
+}

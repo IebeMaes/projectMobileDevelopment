@@ -1,0 +1,225 @@
+{
+  "blokken": [
+    {
+      "id": 1,
+      "title": "A blok",
+      "description": "Dit is de A blok",
+      "latitude": 51.16101148079041,
+      "longitude": 4.961432038988199
+    },
+    {
+      "id": 2,
+      "title": "B blok",
+      "description": "Dit is de B blok",
+      "latitude": 51.161304791389526,
+      "longitude": 4.961980169688564
+    },
+    {
+      "id": 3,
+      "title": "D blok",
+      "description": "Dit is de D blok",
+      "latitude": 51.161743473076896,
+      "longitude": 4.961899130984629
+    },
+    {
+      "id": 4,
+      "title": "E blok",
+      "description": "Dit is de E blok",
+      "latitude": 51.15998221315093,
+      "longitude": 4.960898400474134
+    },
+    {
+      "id": 5,
+      "title": "F blok",
+      "description": "Dit is de F blok",
+      "latitude": 51.16050642200245,
+      "longitude": 4.96067362973704
+    },
+    {
+      "id": 6,
+      "title": "G blok",
+      "description": "Dit is de G blok",
+      "latitude": 51.16089494313273,
+      "longitude": 4.9602878
+    },
+    {
+      "id": 7,
+      "title": "L blok",
+      "description": "Dit is de L blok",
+      "latitude": 51.15955931763559,
+      "longitude": 4.961228532494241
+    },
+    {
+      "id": 8,
+      "title": "O blok",
+      "description": "Dit is de O blok",
+      "latitude": 51.16250598547357,
+      "longitude": 4.961017106091967
+    },
+    {
+      "id": 9,
+      "title": "P blok",
+      "description": "Dit is de P blok",
+      "latitude": 51.16208463112278,
+      "longitude": 4.961074462689705
+    },
+    {
+      "id": 10,
+      "title": "S blok",
+      "description": "Dit is de S blok",
+      "latitude": 51.1589212840782,
+      "longitude": 4.961505935374588
+    }
+  ],
+  "vragen": [
+    {
+      "id": 1,
+      "blokId": 1,
+      "vraag": "Hoe noemt men deze blok ook wel?",
+      "antwoord1": "Agora",
+      "antwoord2": "Agore",
+      "antwoord3": "De inkomhal",
+      "juist": "antwoord1"
+    },
+    {
+      "id": 2,
+      "blokId": 2,
+      "vraag": "Welke richtig heeft vooral les in deze blok?",
+      "antwoord1": "Elektronica",
+      "antwoord2": "Bouw",
+      "antwoord3": "Informatica",
+      "juist": "antwoord2"
+    },
+    {
+      "id": 3,
+      "blokId": 3,
+      "vraag": "Hoeveel verdiepen telt deze blok?",
+      "antwoord1": "1",
+      "antwoord2": "2",
+      "antwoord3": "3",
+      "juist": "antwoord3"
+    },
+    {
+      "id": 4,
+      "blokId": 4,
+      "vraag": "Hoe noemt men deze blok ook wel?",
+      "antwoord1": "Agora",
+      "antwoord2": "De ingenieursblok",
+      "antwoord3": "Tussenblok",
+      "juist": "antwoord2"
+    },
+    {
+      "id": 5,
+      "blokId": 5,
+      "vraag": "Op welke blok lijkt deze blok heel erg?",
+      "antwoord1": "D blok",
+      "antwoord2": "C blok",
+      "antwoord3": "E blok",
+      "juist": "antwoord3"
+    },
+    {
+      "id": 6,
+      "blokId": 6,
+      "vraag": "Hoe noemt men deze blok ook wel?",
+      "antwoord1": "Agora",
+      "antwoord2": "Agore",
+      "antwoord3": "De inkomhal",
+      "juist": "antwoord1"
+    },
+    {
+      "id": 7,
+      "blokId": 7,
+      "vraag": "Hoe noemt men deze blok ook wel?",
+      "antwoord1": "De inkomhal",
+      "antwoord2": "De landbouwhal",
+      "antwoord3": "De landbouwblok",
+      "juist": "antwoord2"
+    },
+    {
+      "id": 8,
+      "blokId": 7,
+      "vraag": "Welke richting heeft hier vooral les?",
+      "antwoord1": "Bouw",
+      "antwoord2": "Ergo",
+      "antwoord3": "Agro",
+      "juist": "antwoord3"
+    },
+    {
+      "id": 10,
+      "blokId": 9,
+      "vraag": "Wat kan je in deze blok terug vinden?",
+      "antwoord1": "Aula's",
+      "antwoord2": "Labo's",
+      "antwoord3": "Tractors",
+      "juist": "antwoord2"
+    },
+    {
+      "id": 11,
+      "blokId": 1,
+      "vraag": "Wat kan je in deze blok terug vinden?",
+      "antwoord1": "Aula's",
+      "antwoord2": "Labo's",
+      "antwoord3": "Tractors",
+      "juist": "antwoord1"
+    },
+    {
+      "id": 12,
+      "blokId": 9,
+      "vraag": "Wat kan je in deze blok terug vinden?",
+      "antwoord1": "Aula's",
+      "antwoord2": "Labo's",
+      "antwoord3": "Tractors",
+      "juist": "antwoord2"
+    },
+    {
+      "id": 13,
+      "blokId": 10,
+      "vraag": "Wat kan je in deze blok terug vinden?",
+      "antwoord1": "Aula's",
+      "antwoord2": "Serre's",
+      "antwoord3": "Tractors",
+      "juist": "antwoord2"
+    },
+    {
+      "id": 14,
+      "blokId": 8,
+      "vraag": "Wat is het dichste bij deze blok?",
+      "antwoord1": "Blok s",
+      "antwoord2": "De waai",
+      "antwoord3": "Blok c",
+      "juist": "antwoord3"
+    }
+  ],
+  "gebruikers": [
+    {
+      "rNummer": "R0740656",
+      "naam": "Stijn Van Braband",
+      "score": 78,
+      "id": 1
+    },
+    {
+      "rNummer": "R0751070",
+      "naam": "Iebe Maes",
+      "score": 2,
+      "id": 2
+    },
+    {
+      "rNummer": "R0750646",
+      "naam": "Sander Peeters",
+      "score": 1,
+      "id": 3
+    },
+    {
+      "rNummer": "R0755111",
+      "naam": "Test de Tester",
+      "score": 1,
+      "id": 4
+    },
+    {
+      "rNummer": "R1234567",
+      "naam": "Koen Van Geel",
+      "score": 1,
+      "id": 5
+    }
+  ]
+}
